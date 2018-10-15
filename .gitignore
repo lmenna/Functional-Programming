@@ -3,3 +3,5 @@ WC*
 test*
 fibs*
 temp
+*.o
+
